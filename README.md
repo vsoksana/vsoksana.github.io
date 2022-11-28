@@ -1,4 +1,4 @@
 # vsoksana.github.io
 
-<a href="https://artyvr.github.io/test/catalog.xml">https://artyvr.github.io/test/catalog.xml</p>
-<a href="https://artyvr.github.io/test/sales_terms.xml">https://artyvr.github.io/test/sales_terms.xml</p>
+<a href="https://vsoksana.github.io/ym/catalog.xml">https://vsoksana.github.io/ym/catalog.xml</p>
+<a href="https://vsoksana.github.io/ym/sales_terms.xml">https://vsoksana.github.io/ym/sales_terms.xml</p>
