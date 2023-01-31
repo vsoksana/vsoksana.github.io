@@ -2,6 +2,6 @@
 
 https://vsoksana.github.io/
 
-https://vsoksana.github.io/catalog.xml
+https://vsoksana.github.io/catalog.zip
 
-https://vsoksana.github.io/sales_terms.xml
+https://vsoksana.github.io/sales_terms.zip
